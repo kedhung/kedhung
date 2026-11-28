@@ -2,7 +2,7 @@
 
 <img src="./gecil.svg" alt="Kedhung Logo" width="130" height="auto" />
 
-# Halo, Saya Kedhung 👋
+# Halo, Saya Waruang 👋
 
 ### Algorithmic Trading Engineer • Quant Researcher • Arsitek KEDHUNG
 
